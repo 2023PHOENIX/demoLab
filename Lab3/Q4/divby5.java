@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+// i added threw git
 
 public class divby5 {
 
